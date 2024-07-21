@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Application couverture dotnet": {
+      "commandName": "Project",
+      "commandLineArgs": "params_1_1.json data_1_1.csv file.json",
+      "workingDirectory": "C:\\Users\\localuser"
+    }
+  }
+}
